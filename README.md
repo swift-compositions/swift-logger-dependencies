@@ -2,7 +2,7 @@
 
 ![Development Status](https://img.shields.io/badge/status-active--development-orange.svg)
 
-A `Logger` dependency value for [swift-dependencies](https://github.com/swift-foundations/swift-dependencies).
+A `Logger` dependency value for [swift-dependencies](https://github.com/swift-compositions/swift-dependencies).
 
 > The Logger × Dependencies integration package: one home for
 > `Logging.Logger` as a dependency value. Applications configure a logger at
@@ -25,7 +25,7 @@ This package does not configure logging or choose a production log handler.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/swift-foundations/swift-logger-dependencies.git", branch: "main")
+    .package(url: "https://github.com/swift-compositions/swift-logger-dependencies.git", branch: "main")
 ]
 ```
 

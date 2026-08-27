@@ -1,6 +1,6 @@
 description: A Logger dependency value for swift-dependencies.
 topics:
-  - foundations
+  - compositions
   - dependencies
   - logging
 readme:
